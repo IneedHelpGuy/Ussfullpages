@@ -62,11 +62,11 @@ body {
 	text-align: center;
     height: 300px;
 	width:260px;
+       transition: all 0.3s ease-in-out; 
 }
 
 .link-box:hover {
   background-color:  #4a4f4a;
- transition: all 0.3s ease-in-out; 
   transform: scale(1.5);
   
 }
